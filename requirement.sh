@@ -27,7 +27,7 @@ clear
       clear
       echo "Password already exists so you can't able to change it"
       echo ""
-      echo "If you forgot your password contact us on Instagram Id :- ( Ajs_walker  or mr_anonz_walker )"
+      echo "If you forgot your password contact us on Instagram Id :- ( Ajs_walker  or mr.anonz_walker )"
 echo ""
       echo "Don't Be Ev!l"
 echo ""
