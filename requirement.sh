@@ -1,8 +1,8 @@
 # you must need to run this requirment file to access this tool
 
-# Created by Ajay (Tamil hackz)
+# Created by Ajay walker(Tamil hackz)
 
-# Tested by Raven (Mr Anonz)
+# Tested by mr_raven_walker (Mr Anonz)
 
 #!/bin/bash
 
@@ -27,7 +27,7 @@ clear
       clear
       echo "Password already exists so you can't able to change it"
       echo ""
-      echo "If you forgot your password contact us on Instagram Id :- ( tamilhackz_  or  raven_anonz )"
+      echo "If you forgot your password contact us on Instagram Id :- ( Ajs walker  or mr_anonz_walker )"
 echo ""
       echo "Don't Be Ev!l"
 echo ""
